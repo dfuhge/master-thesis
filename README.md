@@ -47,7 +47,7 @@ In this work, two external baselines are used:
 * GenerativeLSTM (Camargo et al., 2019): <https://github.com/AdaptiveBProcess/GenerativeLSTM>
 * ProcessTransformer (Bukhsh et al., 2021): <https://github.com/Zaharah/processtransformer>
 
-Both works are also licensed under the Apache License, Version 2.0. To reproduce the baseline results, you have to download the respective repository. The files marked with * are provided in folder `/compare/`.
+Both works are also licensed under the Apache License, Version 2.0. To reproduce the baseline results, you have to download the respective repository. The files marked with * in the thesis are provided in folder `/compare/`, and have to replace the original files of the repository.
 
 ### GenerativeLSTM
 To execute GenerativeLSTM with the constructed wrapper, two manuell starts are necessary.
